@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&family=Quicksand:wght@300&display=swap');
+html{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.header {
+    font-size: xx-large;
+    color: green;
+    text-align: center;
+}
+
+.link {
+    color: black;
+    font-size: small;
+}
+
+.food-picture {
+    height: auto;
+    width: 300px;
+}
+
